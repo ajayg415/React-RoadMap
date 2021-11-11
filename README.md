@@ -1,6 +1,3 @@
-# RoadMap for React (React Native)
-----------------------
-
 #### HTML
 - [HTML Course from W3schools.com](https://www.w3schools.com/html/default.asp)
 - [inlinne vs  inline-block vs block](https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/)
@@ -25,3 +22,7 @@
 - [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
 - [CSS Grid](https://www.w3schools.com/css/css_grid.asp)
 - [CSS Crash Course for Absolute Beginners by Traversy Media](https://www.youtube.com/watch?v=yfoY53QXEnI)
+
+#### RWD (Responsive Web Designing)
+- [CSS Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
+- [RWD](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
